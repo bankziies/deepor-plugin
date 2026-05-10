@@ -1,0 +1,16 @@
+{
+  "name": "deepor",
+  "version": "1.0.0",
+  "description": "Deepor (ดีพอ) — Thai-to-English translation layer for Claude Code and Cowork. Automatically detects Thai input and translates it into precise technical English before execution, so you can type in Thai and Claude always understands perfectly.",
+  "author": "Bankziies",
+  "license": "MIT",
+  "keywords": ["thai", "translation", "thai-to-english", "claude-code", "cowork"],
+  "skills": [
+    "skills/deepor"
+  ],
+  "homepage": "https://github.com/Bankziies/deepor-plugin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bankziies/deepor-plugin.git"
+  }
+}
