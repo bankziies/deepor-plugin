@@ -1,0 +1,16 @@
+mcp[cli]>=1.0.0
+python-dotenv>=1.0.0
+
+# Uncomment the backend(s) you intend to use:
+
+# OpenAI (TRANSLATE_BACKEND=openai)
+openai>=1.0.0
+
+# Anthropic (TRANSLATE_BACKEND=anthropic)
+anthropic>=0.40.0
+
+# Ollama — uses built-in requests, no extra package needed
+# requests>=2.31.0
+
+# DeepL (TRANSLATE_BACKEND=deepl)
+# requests>=2.31.0
